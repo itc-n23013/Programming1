@@ -64,7 +64,7 @@
 ([問題１-break](CHAPTER03/Q3_4_1_break.py))
 ([問題２](CHAPTER03/Q3_4_2.py))
 * 3.5 while文の基礎
-
+([問題１](CHAPTER03/Q3_5_1.py))
 * 3.6 whileを使ったプログラミング
 
 * 3.7 ファイルの操作
