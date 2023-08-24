@@ -116,7 +116,8 @@
 ([問題２](CHAPTER05/Q5_2_2.py))
 ([問題３](CHAPTER05/Q5_2_3.py))
 * 5.3 del を使った削除
-
+([問題１](CHAPTER05/Q5_3_1.py))
+([問題２](CHAPTER05/Q5_3_2.py))
 * 5.4 タプル
 ([問題１](CHAPTER05/Q5_4_1.py))
 ([問題２](CHAPTER05/Q5_4_2.py))
